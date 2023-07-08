@@ -1,0 +1,77 @@
+table {
+    margin: 0 auto;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    background-color: grey;
+    padding: 50px 0px;
+}
+
+button.clear {
+    background: #39FF14;
+    color: #fff;
+}
+
+table {
+    background: black;
+    padding: 7px 5px;
+    border: 6px solid #00000000;
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow: 0px 0px 27px #39FF14;
+    border-radius: 10px;
+    margin-top: 90px;
+}
+
+button.equal {
+    width: 88%;
+    background: #210b04;
+}
+
+button.equal:hover {
+    background: #000803;
+}
+
+input[type="text"] {
+    width: 450px;
+    height: 81px;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: #000000;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 10px;
+    color: #dedede;
+    border-bottom: 2px solid #39FF14;
+}
+
+button {
+    padding: 10px 20px;
+    width: 100px;
+    height: 60px;
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    background: #000803;
+    border: none;
+    color: #39FF14;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #210b04;
+}
